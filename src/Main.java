@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         Person irina = new Person("Ирина");
-        Person vasya = new Person("Вася");
+        Person vasya = new Person("Валя");
         Person masha = new Person("Маша");
         Person jane = new Person("Женя");
         Person ivan = new Person("Ваня");
